@@ -135,13 +135,8 @@ typings/
 .tern-port
 
 release/
+build/
 
 .DS_Store
 package-lock.json
 
-dist/electron.js
-dist/react.js
-chrome/
-research/
-encrypted/
-decrypted/
